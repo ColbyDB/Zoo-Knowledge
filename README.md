@@ -1,1 +1,1 @@
-# Zoo-Knowlegde/README.md
+# Zoo-Knowledge/README.md
